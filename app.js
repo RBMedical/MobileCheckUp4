@@ -1,4 +1,4 @@
-const APP_SCRIPT_URL = 'https://script.google.com/macros/s/AKfycbxDhzLEukBf1USExcEsQezXtWcjV8mM37blajiulWslNK722u1uXHVJ2oyBmkLI2fAyOA/exec';
+const APP_SCRIPT_URL = 'https://script.google.com/macros/s/AKfycbwCDbxXA3_olMDWU3A9-HZtulZepq6p5yMnCdZKJGL0RPm673Dq0eVa9c40gp1vCbVJrw/exec';
 const fields = [
   'HN',
   'ชื่อ นามสกุล',
